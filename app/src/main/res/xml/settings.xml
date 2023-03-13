@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <PreferenceScreen
+      android:icon="@drawable/ic_view_compact_black_24dp"
+      android:key="ui"
+      android:layout="@layout/preference_screen_custom"
+      android:summary="@string/setting_category_ui_desc_setting"
+      android:title="@string/setting_category_ui_setting"/>
+
+  <PreferenceScreen
+      android:icon="@drawable/ic_videocam_black_24dp"
+      android:key="recording"
+      android:layout="@layout/preference_screen_custom"
+      android:summary="@string/setting_category_recording_desc_r"
+      android:title="@string/setting_category_recording_r"/>
+
+  <PreferenceScreen
+      android:icon="@drawable/ic_hd_black_24dp"
+      android:key="quality"
+      android:layout="@layout/preference_screen_custom"
+      android:summary="@string/setting_category_quality_desc_q"
+      android:title="@string/setting_category_quality_q"/>
+
+  <PreferenceScreen
+      android:icon="@drawable/ic_phonelink_setup_black_24dp"
+      android:key="controls"
+      android:layout="@layout/preference_screen_custom"
+      android:summary="@string/setting_category_controls_desc_c"
+      android:title="@string/setting_category_controls_c"/>
+
+</PreferenceScreen>

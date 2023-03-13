@@ -1,0 +1,7 @@
+#Thu Oct 07 11:22:09 PDT 2021
+base.0=C\:\\Users\\spider\\Desktop\\PROJECTS\\ALL ANDRIOD PROJECT FOLDER\\FOR ADMOB\\screenrecorder\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\spider\\Desktop\\PROJECTS\\ALL ANDRIOD PROJECT FOLDER\\FOR ADMOB\\screenrecorder\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex

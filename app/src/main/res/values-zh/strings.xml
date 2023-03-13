@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string name="app_name">屏幕录像机</string>
+    <string name="app_name_short">屏幕录像机</string>
+    <string name="app_name_short_withNumber_str">SC (%1$d)</string>
+
+
+    <string name="recordings_empty_msg">没有录音…</string>
+    <string name="settings">设定值</string>
+    <string name="install_video_viewer_in">请安装视频查看器应用，例如Google相册。</string>
+
+
+    <!--  ///////////////////////////setting-->
+    <string name="setting_category_ui_setting">UI（用户界面）</string>
+    <string name="setting_category_ui_desc_setting">修改应用程序的UI。</string>
+
+    <string name="setting_dark_mode_setting">暗模式</string>
+    <string name="setting_dark_mode_on_setting">暗模式开启</string>
+    <string name="setting_dark_mode_off_setting">暗模式关闭。</string>
+
+    <string name="setting_dark_mode_automatic_setting">自动暗模式</string>
+    <string name="setting_dark_mode_automatic_on_setting">暗模式会根据一天中的时间自动打开和关闭.</string>
+    <string name="setting_dark_mode_automatic_off_setting">暗模式仅在将其打开时启用，并保持打开状态直到您将其关闭.</string>
+
+    <string name="setting_dark_mode_automatic_start_setting"> 暗模式启动</string>
+<!--    <string name="setting_dark_mode_automatic_start_desc_setting">黑暗模式会在%1%s.开启.</string>-->
+    <string name="setting_dark_mode_automatic_end_setting">黑暗模式结束</string>
+    <string name="setting_dark_mode_automatic_end_desc_setting">黑暗模式会在%1$s自行关闭。</string>
+    <string name="setting_category_quality_q">质量</string>
+    <string name="setting_category_quality_desc_q">修改音频和视频质量，例如帧速率和比特率。</string>
+
+    <string name="setting_bitrate_q">视频比特率</string>
+    <string name="setting_bitrate_desc_q">屏幕截图将记录在 %1$s</string>
+
+    <string name="setting_audio_bitrate_q">音频比特率</string>
+    <string name="setting_audio_bitrate_desc_q">音频捕获将记录在 %1$s</string>
+
+    <string name="setting_framerate_q">影格速率</string>
+    <string name="setting_framerate_desc_q" tools:ignore="PluralsCandidate">屏幕截图将以每秒 %1$d 帧的速度进行记录。</string>
+
+    <string name="setting_resolution">解析度</string>
+    <string name="setting_resolution_desc">记录分辨率设置为 %1$dx%2$d</string>
+
+    <string name="setting_category_recording_r">记录</string>
+    <string name="setting_category_recording_desc_r">修改录制行为，例如开始倒数，输出文件夹等</string>
+
+    <string name="setting_countdown_r">倒数</string>
+    <string name="setting_countdown_off">录制将立即开始.</string>
+
+    <string name="setting_countdown_zero_note_r">设置为0时，将禁用倒计时。</string>
+
+    <string name="setting_record_audio_r">录制音频</string>
+    <string name="setting_record_audio_on_r">在捕获过程中，将通过麦克风录制音频。Google不允许应用 录制内部音频。</string>
+    <string name="setting_record_audio_off_r">捕获过程中不会录制音频。请注意，Google不允许仅通过您的麦克风录制内部音频.</string>
+    <string name="setting_record_audio_no_mic">您的设备没有麦克风，也无法录制音频。</string>
+
+    <string name="setting_recordings_folder_r">录音文件夹</string>
+    <string name="setting_recordings_folder_desc">记录保存到 \"%1$s\"</string>
+
+    <string name="setting_show_touches_r">显示水龙头</string>
+    <string name="setting_show_touches_desc_r">屏幕录像机针对的是最新版本的Android，这限制了对此设置的访问。您可以通过手机的设置手动对其进行设置。</string>
+    <string name="settings_show_touches_dev_options_r">需要开发人员模式</string>
+    <string name="settings_show_touches_dev_options_desc_r">您必须将手机置于开发人员模式，以便SC可以向您显示开发人员选项。开发人员选项可让您手动启用 \'Show Taps \' 。</string>
+    <string name="settings_show_touches_dev_options_how_r">告诉我如何</string>
+
+    <string name="setting_category_controls_c">控制项</string>
+    <string name="setting_category_controls_desc_c">修改录制控件，例如停止摇动，关闭屏幕停止等。</string>
+
+    <string name="setting_stop_on_screen_enable">停在萤幕上</string>
+    <string name="setting_stop_on_screen_off_desc_enable">当屏幕关闭时，任何活动的屏幕记录都将停止。</string>
+    <string name="setting_stop_on_screen_off_desc_diable">关闭屏幕时，不会发生任何特殊情况。</string>
+
+    <string name="setting_stop_on_shake_c">停下来摇</string>
+    <string name="setting_stop_on_shake_enable">摇动设备将停止任何活动的屏幕记录。</string>
+    <string name="setting_stop_on_shake_disable_c">摇动设备不会执行任何特殊操作。</string>
+
+
+    <!--    /////shortcuts   -->
+    <string name="shortcut_record_name">开始录音</string>
+    <string name="shortcut_record_name_short">记录</string>
+
+    <string name="setting_always_show_controls_enable_c">诸如通知的控制; 浮动按钮会在应用启动时显示，直到您关闭通知或浮动按钮后，该按钮才会消失。
+</string>
+    <string name="setting_always_show_controls_disable">仅在进行中时显示控件。</string>
+
+
+</resources>

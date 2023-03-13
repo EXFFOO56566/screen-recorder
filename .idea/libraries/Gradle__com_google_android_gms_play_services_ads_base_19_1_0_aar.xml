@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-base:19.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Gradle/gradle-5.1.1/caches/transforms-2/files-2.1/bf1971a3750e10bc5ccb48bb394c6fe2/jetified-play-services-ads-base-19.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Gradle/gradle-5.1.1/caches/transforms-2/files-2.1/bf1971a3750e10bc5ccb48bb394c6fe2/jetified-play-services-ads-base-19.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf1971a3750e10bc5ccb48bb394c6fe2/jetified-play-services-ads-base-19.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf1971a3750e10bc5ccb48bb394c6fe2/jetified-play-services-ads-base-19.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf1971a3750e10bc5ccb48bb394c6fe2/jetified-play-services-ads-base-19.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/bf1971a3750e10bc5ccb48bb394c6fe2/jetified-play-services-ads-base-19.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/bf1971a3750e10bc5ccb48bb394c6fe2/jetified-play-services-ads-base-19.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/bf1971a3750e10bc5ccb48bb394c6fe2/jetified-play-services-ads-base-19.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Gradle/gradle-5.1.1/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads-base/19.1.0/4231dabe95aa1e3ee5305dc4b69fc11fda97bc1c/play-services-ads-base-19.1.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads-base/19.1.0/4231dabe95aa1e3ee5305dc4b69fc11fda97bc1c/play-services-ads-base-19.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads-base/19.1.0/4231dabe95aa1e3ee5305dc4b69fc11fda97bc1c/play-services-ads-base-19.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

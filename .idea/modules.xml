@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/screenrecorder.iml" filepath="$PROJECT_DIR$/screenrecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/screenrecorder.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/screenrecorder.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/capturescrn/screenrecorder.capturescrn.iml" filepath="$PROJECT_DIR$/.idea/modules/capturescrn/screenrecorder.capturescrn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fileutiltest/screenrecorder.fileutiltest.iml" filepath="$PROJECT_DIR$/.idea/modules/fileutiltest/screenrecorder.fileutiltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notificationssetup/screenrecorder.notificationssetup.iml" filepath="$PROJECT_DIR$/.idea/modules/notificationssetup/screenrecorder.notificationssetup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/uifiletm/screenrecorder.uifiletm.iml" filepath="$PROJECT_DIR$/.idea/modules/uifiletm/screenrecorder.uifiletm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilcmnuse/screenrecorder.utilcmnuse.iml" filepath="$PROJECT_DIR$/.idea/modules/utilcmnuse/screenrecorder.utilcmnuse.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+apply from: '../dependencies.gradle'
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+
+android {
+  compileSdkVersion versions.compileSdk
+
+  defaultConfig {
+    minSdkVersion versions.minSdk
+    targetSdkVersion versions.compileSdk
+    versionCode versions.publishVersionCode
+    versionName versions.publishVersion
+  }
+}
+
+dependencies {
+  implementation project(':utilcmnuse')
+  implementation project(':notificationssetup')
+  implementation project(':uifiletm')
+
+  // Kotlin
+  implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8:' + versions.kotlin
+
+  // rdbrain
+  implementation 'com.afollestad.material-dialogs:core:' + versions.materialDialogs
+  implementation 'com.afollestad:assent:' + versions.assent
+
+  // Square
+  implementation 'com.squareup:seismic:' + versions.seismic
+
+
+
+  // Recommended: Add the Firebase SDK for Google Analytics.
+  implementation 'com.google.firebase:firebase-analytics:17.4.4'
+
+  // Add the Firebase Crashlytics SDK.
+  implementation 'com.google.firebase:firebase-crashlytics:17.1.1'
+
+
+}
+
+apply from: '../spotless.gradle'

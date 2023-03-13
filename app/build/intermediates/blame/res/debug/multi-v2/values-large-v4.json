@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\11\\OLD SIMPLE BASE PROJECTS\\FOR ADMOB\\screenrecorder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\11\\OLD SIMPLE BASE PROJECTS\\FOR ADMOB\\screenrecorder\\utilcmnuse\\build\\intermediates\\packaged_res\\debug\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,152,202,252,302,353",
+                        "endColumns": "44,51,49,49,49,50,51",
+                        "endOffsets": "95,147,197,247,297,348,400"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "532,577,629,679,729,779,830",
+                        "endColumns": "44,51,49,49,49,50,51",
+                        "endOffsets": "572,624,674,724,774,825,877"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\ALL ANDRIOD PROJECT FOLDER\\FOR PLAYSTORE\\MAIN\\PORTFOLIO APP (SPECAIL)\\ADD ON'S\\ImageViewer-master\\caches\\transforms-2\\files-2.1\\e036920bdaffa09d27beaa9b04732505\\material-1.0.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "1102,1224",
+                        "endColumns": "121,133",
+                        "endOffsets": "1219,1353"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\ALL ANDRIOD PROJECT FOLDER\\FOR PLAYSTORE\\MAIN\\PORTFOLIO APP (SPECAIL)\\ADD ON'S\\ImageViewer-master\\caches\\transforms-2\\files-2.1\\c828c0222ba549b04525156e7d7a7314\\appcompat-1.1.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,882,986",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,981,1097"
+                    }
+                }
+            ]
+        }
+    ]
+}

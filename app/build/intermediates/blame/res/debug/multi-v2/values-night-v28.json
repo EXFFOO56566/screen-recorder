@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\11\\OLD SIMPLE BASE PROJECTS\\FOR ADMOB\\screenrecorder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v28\\values-night-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\11\\OLD SIMPLE BASE PROJECTS\\FOR ADMOB\\screenrecorder\\uifiletm\\build\\intermediates\\packaged_res\\debug\\values-night-v28\\values-night-v28.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,271",
+                        "endLines": "5,9",
+                        "endColumns": "10,10",
+                        "endOffsets": "266,487"
+                    }
+                }
+            ]
+        }
+    ]
+}

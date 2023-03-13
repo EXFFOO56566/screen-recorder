@@ -1,0 +1,382 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.rdbrain.demo"
+4    android:versionCode="1"
+5    android:versionName="1.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:6:5-71
+11-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:6:22-68
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:7:5-77
+12-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:7:22-74
+13    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+13-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:8:5-78
+13-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:8:22-75
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:10:5-67
+15-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:10:22-64
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:11:5-80
+16-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:11:22-77
+17    <uses-permission android:name="TASKS" />
+17-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:14:5-45
+17-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:14:22-42
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-66
+18-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:12:22-63
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\99957f6f1f33f8d5ba92d19d9e2bfb83\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:23:5-79
+19-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\99957f6f1f33f8d5ba92d19d9e2bfb83\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:23:22-76
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\99957f6f1f33f8d5ba92d19d9e2bfb83\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:24:5-68
+20-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\99957f6f1f33f8d5ba92d19d9e2bfb83\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:24:22-65
+21    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+21-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:26:5-110
+21-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:26:22-107
+22    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+22-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:5-82
+22-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:22-79
+23
+24    <application
+24-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:16:5-62:19
+25        android:name="com.tochy.screenrecorder.SCApp"
+25-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:17:9-54
+26        android:allowBackup="true"
+26-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:18:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\5184f5139ec043feb15020064b0ae0cd\core-1.1.0\AndroidManifest.xml:24:18-86
+28        android:extractNativeLibs="false"
+29        android:icon="@mipmap/ic_launcher"
+29-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:19:9-43
+30        android:label="@string/app_name"
+30-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:20:9-41
+31        android:requestLegacyExternalStorage="true"
+31-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:21:9-52
+32        android:roundIcon="@mipmap/ic_launcher_circle"
+32-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:22:9-55
+33        android:supportsRtl="true"
+33-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:23:9-35
+34        android:theme="@style/AppTheme" >
+34-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:24:9-40
+35        <meta-data
+35-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:26:9-28:52
+36            android:name="com.google.android.gms.ads.APPLICATION_ID"
+36-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:27:13-69
+37            android:value="@string/admob_app_id" />
+37-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:28:13-49
+38
+39        <activity
+39-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:30:9-43:20
+40            android:name="com.tochy.screenrecorder.uiterfacec.mainactivities.MainActivity"
+40-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:31:13-91
+41            android:label="@string/app_name_short"
+41-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:32:13-51
+42            android:launchMode="singleInstance" >
+42-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:33:13-48
+43            <intent-filter>
+43-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:34:13-38:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:35:17-69
+44-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:35:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:37:17-77
+46-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:37:27-74
+47            </intent-filter>
+48
+49            <meta-data
+49-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:40:13-42:53
+50                android:name="android.app.shortcuts"
+50-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:41:17-53
+51                android:resource="@xml/shortcuts" />
+51-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:42:17-50
+52        </activity>
+53        <activity
+53-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:44:9-51:20
+54            android:name="com.tochy.screenrecorder.shortcutsdirect.ShortcutActivity"
+54-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:45:13-85
+55            android:excludeFromRecents="true"
+55-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:46:13-46
+56            android:theme="@style/AppTheme.Transparent" >
+56-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:47:13-56
+57            <intent-filter>
+57-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:48:13-50:29
+58                <action android:name="android.intent.action.VIEW" />
+58-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:49:17-69
+58-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:49:25-66
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:53:9-59:20
+62            android:name="com.tochy.screenrecorder.uiterfacec.settings.SettingsActivitymain"
+62-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:54:13-93
+63            android:label="@string/settings" >
+63-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:55:13-45
+64            <intent-filter>
+64-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:56:13-58:29
+65                <action android:name="android.service.quicksettings.action.QS_TILE_PREFERENCES" />
+65-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:57:17-99
+65-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\app\src\main\AndroidManifest.xml:57:25-96
+66            </intent-filter>
+67        </activity>
+68
+69        <service
+69-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-20:35
+70            android:name="com.tochy.screenrecorder.capturescrn.captureservice.BackgroundService"
+70-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-97
+71            android:enabled="true"
+71-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-35
+72            android:exported="false"
+72-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-37
+73            android:foregroundServiceType="mediaProjection" />
+73-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:19:13-60
+74
+75        <provider
+75-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-30:20
+76            android:name="androidx.core.content.FileProvider"
+76-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:23:13-62
+77            android:authorities="com.tochy.screenrecorder.provider"
+77-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:24:13-68
+78            android:exported="false"
+78-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:25:13-37
+79            android:grantUriPermissions="true" >
+79-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-47
+80            <meta-data
+80-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:27:13-29:58
+81                android:name="android.support.FILE_PROVIDER_PATHS"
+81-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:28:17-67
+82                android:resource="@xml/provider_paths" />
+82-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:29:17-55
+83        </provider>
+84
+85        <service
+85-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:32:9-40:19
+86            android:name="com.tochy.screenrecorder.capturescrn.capturequicksetting.QuickSettingServices"
+86-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-105
+87            android:icon="@drawable/ic_quick_setting_record"
+87-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-61
+88            android:label="@string/app_name"
+88-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-45
+89            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+89-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-77
+90            <intent-filter>
+90-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-39:29
+91                <action android:name="android.service.quicksettings.action.QS_TILE" />
+91-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:38:17-87
+91-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:38:25-84
+92            </intent-filter>
+93        </service>
+94
+95        <activity
+95-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:42:9-45:59
+96            android:name="com.tochy.screenrecorder.capturescrn.capturepermission.OverlaysPermissionActivity"
+96-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:43:13-109
+97            android:excludeFromRecents="true"
+97-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:44:13-46
+98            android:theme="@style/AppTheme.Transparent" />
+98-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-56
+99        <activity
+99-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:46:9-49:59
+100            android:name="com.tochy.screenrecorder.capturescrn.captureservice.ErrorDialogActivity"
+100-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:47:13-99
+101            android:excludeFromRecents="true"
+101-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-46
+102            android:theme="@style/AppTheme.Transparent" />
+102-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-56
+103        <activity
+103-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:50:9-53:59
+104            android:name="com.tochy.screenrecorder.capturescrn.capturepermission.CapturePermissionActivityStart"
+104-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-113
+105            android:excludeFromRecents="true"
+105-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-46
+106            android:theme="@style/AppTheme.Transparent" />
+106-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-56
+107        <activity
+107-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:54:9-57:59
+108            android:name="com.tochy.screenrecorder.capturescrn.capturepermission.StoragePermissionActivity"
+108-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-108
+109            android:excludeFromRecents="true"
+109-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:56:13-46
+110            android:theme="@style/AppTheme.Transparent" />
+110-->[:capturescrn] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\screenrecorder\capturescrn\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-56
+111
+112        <service
+112-->[com.google.firebase:firebase-crashlytics:17.1.1] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\27e17f4ebe2919d8e0940ef95063a244\jetified-firebase-crashlytics-17.1.1\AndroidManifest.xml:13:9-19:19
+113            android:name="com.google.firebase.components.ComponentDiscoveryService"
+113-->[com.google.firebase:firebase-crashlytics:17.1.1] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\27e17f4ebe2919d8e0940ef95063a244\jetified-firebase-crashlytics-17.1.1\AndroidManifest.xml:14:13-84
+114            android:directBootAware="true"
+114-->[com.google.firebase:firebase-common:19.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\1986cd89b2e8fda01a8035cbdcc92ca9\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+115            android:exported="false" >
+115-->[com.google.firebase:firebase-crashlytics:17.1.1] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\27e17f4ebe2919d8e0940ef95063a244\jetified-firebase-crashlytics-17.1.1\AndroidManifest.xml:15:13-37
+116            <meta-data
+116-->[com.google.firebase:firebase-crashlytics:17.1.1] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\27e17f4ebe2919d8e0940ef95063a244\jetified-firebase-crashlytics-17.1.1\AndroidManifest.xml:16:13-18:85
+117                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+117-->[com.google.firebase:firebase-crashlytics:17.1.1] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\27e17f4ebe2919d8e0940ef95063a244\jetified-firebase-crashlytics-17.1.1\AndroidManifest.xml:17:17-115
+118                android:value="com.google.firebase.components.ComponentRegistrar" />
+118-->[com.google.firebase:firebase-crashlytics:17.1.1] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\27e17f4ebe2919d8e0940ef95063a244\jetified-firebase-crashlytics-17.1.1\AndroidManifest.xml:18:17-82
+119            <meta-data
+119-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\99957f6f1f33f8d5ba92d19d9e2bfb83\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:30:13-32:85
+120                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+120-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\99957f6f1f33f8d5ba92d19d9e2bfb83\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:31:17-139
+121                android:value="com.google.firebase.components.ComponentRegistrar" />
+121-->[com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\99957f6f1f33f8d5ba92d19d9e2bfb83\jetified-play-services-measurement-api-17.4.4\AndroidManifest.xml:32:17-82
+122            <meta-data
+122-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:32:13-34:85
+123                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+123-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:33:17-96
+124                android:value="com.google.firebase.components.ComponentRegistrar" />
+124-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:34:17-82
+125            <meta-data
+125-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\f941c322bfa71b15b9385bc4d8d291b2\jetified-firebase-installations-16.3.2\AndroidManifest.xml:17:13-19:85
+126                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+126-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\f941c322bfa71b15b9385bc4d8d291b2\jetified-firebase-installations-16.3.2\AndroidManifest.xml:18:17-127
+127                android:value="com.google.firebase.components.ComponentRegistrar" />
+127-->[com.google.firebase:firebase-installations:16.3.2] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\f941c322bfa71b15b9385bc4d8d291b2\jetified-firebase-installations-16.3.2\AndroidManifest.xml:19:17-82
+128        </service>
+129
+130        <receiver
+130-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:29:9-33:20
+131            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+131-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:30:13-85
+132            android:enabled="true"
+132-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:31:13-35
+133            android:exported="false" >
+133-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:32:13-37
+134        </receiver>
+135
+136        <service
+136-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:35:9-38:40
+137            android:name="com.google.android.gms.measurement.AppMeasurementService"
+137-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:36:13-84
+138            android:enabled="true"
+138-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:37:13-35
+139            android:exported="false" />
+139-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:38:13-37
+140        <service
+140-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:39:9-43:72
+141            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+141-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:40:13-87
+142            android:enabled="true"
+142-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:41:13-35
+143            android:exported="false"
+143-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:42:13-37
+144            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+144-->[com.google.android.gms:play-services-measurement:17.4.4] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\e69d8196b3281f2da5777dd82468fc9e\jetified-play-services-measurement-17.4.4\AndroidManifest.xml:43:13-69
+145        <activity
+145-->[com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\8415e67cbbce507b01762e7dd1e11a7a\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:29:9-33:64
+146            android:name="com.google.android.gms.ads.AdActivity"
+146-->[com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\8415e67cbbce507b01762e7dd1e11a7a\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:30:13-65
+147            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+147-->[com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\8415e67cbbce507b01762e7dd1e11a7a\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:31:13-122
+148            android:exported="false"
+148-->[com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\8415e67cbbce507b01762e7dd1e11a7a\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:32:13-37
+149            android:theme="@android:style/Theme.Translucent" />
+149-->[com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\8415e67cbbce507b01762e7dd1e11a7a\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:33:13-61
+150
+151        <provider
+151-->[com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\8415e67cbbce507b01762e7dd1e11a7a\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:35:9-39:39
+152            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+152-->[com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\8415e67cbbce507b01762e7dd1e11a7a\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:36:13-76
+153            android:authorities="com.rdbrain.demo.mobileadsinitprovider"
+153-->[com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\8415e67cbbce507b01762e7dd1e11a7a\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:37:13-73
+154            android:exported="false"
+154-->[com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\8415e67cbbce507b01762e7dd1e11a7a\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:38:13-37
+155            android:initOrder="100" />
+155-->[com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\8415e67cbbce507b01762e7dd1e11a7a\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:39:13-36
+156
+157        <receiver
+157-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:37:9-44:20
+158            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+158-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:38:13-78
+159            android:exported="true"
+159-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:39:13-36
+160            android:permission="com.google.android.c2dm.permission.SEND" >
+160-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:40:13-73
+161            <intent-filter>
+161-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:41:13-43:29
+162                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+162-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:17-81
+162-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\df8af5f5fdaca9c204a0a2bb8b858dd3\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:25-78
+163            </intent-filter>
+164        </receiver>
+165
+166        <provider
+166-->[com.google.firebase:firebase-common:19.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\1986cd89b2e8fda01a8035cbdcc92ca9\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+167            android:name="com.google.firebase.provider.FirebaseInitProvider"
+167-->[com.google.firebase:firebase-common:19.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\1986cd89b2e8fda01a8035cbdcc92ca9\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+168            android:authorities="com.rdbrain.demo.firebaseinitprovider"
+168-->[com.google.firebase:firebase-common:19.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\1986cd89b2e8fda01a8035cbdcc92ca9\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+169            android:exported="false"
+169-->[com.google.firebase:firebase-common:19.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\1986cd89b2e8fda01a8035cbdcc92ca9\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+170            android:initOrder="100" />
+170-->[com.google.firebase:firebase-common:19.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\1986cd89b2e8fda01a8035cbdcc92ca9\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+171
+172        <activity
+172-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\a3affb8bf554e0d96bc473818d8aaed2\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+173            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+173-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\a3affb8bf554e0d96bc473818d8aaed2\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+174            android:exported="false"
+174-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\a3affb8bf554e0d96bc473818d8aaed2\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+175            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+175-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\a3affb8bf554e0d96bc473818d8aaed2\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+176
+177        <meta-data
+177-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\a73ca99b832059d40a03e7c11afc917b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+178            android:name="com.google.android.gms.version"
+178-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\a73ca99b832059d40a03e7c11afc917b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+179            android:value="@integer/google_play_services_version" />
+179-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\a73ca99b832059d40a03e7c11afc917b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+180
+181        <provider
+181-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\fda454c7fc46cba6e49df776f89a493c\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+182            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+182-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\fda454c7fc46cba6e49df776f89a493c\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+183            android:authorities="com.rdbrain.demo.lifecycle-process"
+183-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\fda454c7fc46cba6e49df776f89a493c\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+184            android:exported="false"
+184-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\fda454c7fc46cba6e49df776f89a493c\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+185            android:multiprocess="true" />
+185-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\fda454c7fc46cba6e49df776f89a493c\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+186
+187        <service
+187-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\d7203d0c3816c9454697fb21d81fd8d1\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+188            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+188-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\d7203d0c3816c9454697fb21d81fd8d1\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+189            android:exported="false" >
+189-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\d7203d0c3816c9454697fb21d81fd8d1\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+190            <meta-data
+190-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\d7203d0c3816c9454697fb21d81fd8d1\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+191                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+191-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\d7203d0c3816c9454697fb21d81fd8d1\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+192                android:value="cct" />
+192-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\d7203d0c3816c9454697fb21d81fd8d1\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+193        </service>
+194        <service
+194-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\57642e689715153c05fb7eb850802c5d\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+195            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+195-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\57642e689715153c05fb7eb850802c5d\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+196            android:exported="false"
+196-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\57642e689715153c05fb7eb850802c5d\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+197            android:permission="android.permission.BIND_JOB_SERVICE" >
+197-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\57642e689715153c05fb7eb850802c5d\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+198        </service>
+199
+200        <receiver
+200-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\57642e689715153c05fb7eb850802c5d\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+201            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+201-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\57642e689715153c05fb7eb850802c5d\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+202            android:exported="false" />
+202-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\spider\.gradle\caches\transforms-2\files-2.1\57642e689715153c05fb7eb850802c5d\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+203    </application>
+204
+205</manifest>

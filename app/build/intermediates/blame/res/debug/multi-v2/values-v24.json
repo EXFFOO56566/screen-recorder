@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\11\\OLD SIMPLE BASE PROJECTS\\FOR ADMOB\\screenrecorder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\ALL ANDRIOD PROJECT FOLDER\\FOR PLAYSTORE\\MAIN\\PORTFOLIO APP (SPECAIL)\\ADD ON'S\\ImageViewer-master\\caches\\transforms-2\\files-2.1\\c828c0222ba549b04525156e7d7a7314\\appcompat-1.1.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

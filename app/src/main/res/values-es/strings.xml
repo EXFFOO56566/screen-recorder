@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string name="app_name">Grabadora de pantalla</string>
+    <string name="app_name_short">Grabadora de pantalla</string>
+    <string name="app_name_short_withNumber_str">SC (%1$d)</string>
+
+
+    <string name="recordings_empty_msg">No hay grabaciones…</string>
+    <string name="settings">Configuraciones</string>
+    <string name="install_video_viewer_in">Instale una aplicación de visor de video, como Google Photos.</string>
+
+
+    <!--  ///////////////////////////setting-->
+    <string name="setting_category_ui_setting">UI (interfaz de usuario)</string>
+    <string name="setting_category_ui_desc_setting">Modifique la interfaz de usuario de la aplicación.</string>
+
+    <string name="setting_dark_mode_setting">Modo oscuro</string>
+    <string name="setting_dark_mode_on_setting">El modo oscuro está activado.</string>
+    <string name="setting_dark_mode_off_setting">El modo oscuro está apagado</string>
+
+    <string name="setting_dark_mode_automatic_setting">Modo oscuro automático</string>
+    <string name="setting_dark_mode_automatic_on_setting">El modo oscuro se activa y desactiva según la hora del día.</string>
+    <string name="setting_dark_mode_automatic_off_setting">El modo oscuro solo se habilita cuando lo enciende y permanece encendido hasta que lo apaga.</string>
+
+    <string name="setting_dark_mode_automatic_start_setting">Inicio en modo oscuro</string>
+<!--    <string name="setting_dark_mode_automatic_start_desc_setting"> El modo oscuro se activa %1$s.</string>-->
+    <string name="setting_dark_mode_automatic_end_setting">Fin del modo oscuro</string>
+    <string name="setting_dark_mode_automatic_end_desc_setting">El modo oscuro se desactiva en  %1$s.</string>
+
+    <string name="setting_category_quality_q">Calidad</string>
+    <string name="setting_category_quality_desc_q">Modifique la calidad de audio y video, como la velocidad de fotogramas y la velocidad de bits.</string>
+
+
+
+    <string name="setting_bitrate_q">Bitrate de vídeo</string>
+    <string name="setting_bitrate_desc_q">La captura de pantalla se grabará en %1$s</string>
+
+    <string name="setting_audio_bitrate_q">Velocidad de bits de audio</string>
+    <string name="setting_audio_bitrate_desc_q">La captura de audio se grabará en %1$s</string>
+
+    <string name="setting_framerate_q">Cuadros por segundo</string>
+    <string name="setting_framerate_desc_q" tools:ignore="PluralsCandidate">La captura de pantalla registrará a %1$d fotogramas por segundo.</string>
+
+    <string name="setting_resolution">Resolución</string>
+    <string name="setting_resolution_desc">Resolución de grabación establecida en %1$dx%2$d.</string>
+
+    <string name="setting_category_recording_r">Grabación</string>
+    <string name="setting_category_recording_desc_r"> Modifique el comportamiento de grabación, como una cuenta regresiva de inicio, la carpeta de salida, etc.</string>
+
+    <string name="setting_countdown_r"> cuenta regresiva</string>
+    <string name="setting_countdown_off">La grabación comenzará de inmediato.</string>
+
+    <string name="setting_countdown_zero_note_r">Cuando se establece en 0, la cuenta regresiva está deshabilitada.
+</string>
+
+    <string name="setting_record_audio_r">Grabar audio
+</string>
+    <string name="setting_record_audio_on_r">El audio se grabará desde su micrófono durante la captura. Google no permite que las aplicaciones graben audio interno.
+</string>
+    <string name="setting_record_audio_off_r">El audio no se grabará durante la captura. Tenga en cuenta que Google no permite que se grabe audio interno, solo desde su micrófono.
+</string>
+    <string name="setting_record_audio_no_mic">    Su dispositivo no tiene micrófono y no puede grabar audio.
+</string>
+
+    <string name="setting_recordings_folder_r">Carpeta Grabaciones
+</string>
+    <string name="setting_recordings_folder_desc">Las grabaciones se guardan en \"%1$s\"
+</string>
+
+    <string name="setting_show_touches_r">Mostrar grifos
+</string>
+    <string name="setting_show_touches_desc_r">Screen Recorder apunta a las últimas versiones de Android, lo que restringe el acceso a esta configuración. Puede hacerlo manualmente desde la configuración de su teléfono.
+</string>
+    <string name="settings_show_touches_dev_options_r">Modo de desarrollador necesario
+</string>
+    <string name="settings_show_touches_dev_options_desc_r">Debe poner su teléfono en modo desarrollador para que SC pueda mostrarle las opciones de desarrollador. Las opciones de desarrollador le permiten habilitar \'Mostrar Taps\' manualmente.
+</string>
+    <string name="settings_show_touches_dev_options_how_r">Muéstrame cómo
+</string>
+
+    <string name="setting_category_controls_c">Control S
+</string>
+    <string name="setting_category_controls_desc_c">Modifique los controles de grabación, como detener al sacudir, detener en pantalla apagada, etc.
+</string>
+
+    <string name="setting_stop_on_screen_enable">Parar en pantalla apagada
+</string>
+    <string name="setting_stop_on_screen_off_desc_enable">Cuando su pantalla está apagada, cualquier grabación activa de la pantalla se detendrá.
+</string>
+    <string name="setting_stop_on_screen_off_desc_diable">Cuando su pantalla está apagada, no sucederá nada especial.
+</string>
+    <string name="setting_stop_on_shake_c">Parada en batido
+</string>
+    <string name="setting_stop_on_shake_enable">Agitar su dispositivo detendrá cualquier grabación de pantalla activa.
+</string>
+    <string name="setting_stop_on_shake_disable_c">Agitar su dispositivo no hará nada especial.
+</string>
+
+
+    <!--    /////shortcuts   -->
+    <string name="shortcut_record_name">Empezar a grabar
+</string>
+    <string name="shortcut_record_name_short">Grabar</string>
+
+    <string name="setting_always_show_controls_enable_c">Controles como la notificación &amp; los botones flotantes se muestran cuando se inicia la aplicación y no desaparecerán hasta que descarte la notificación o el botón flotante.
+</string>
+    <string name="setting_always_show_controls_disable">Los controles solo se muestran cuando la captura está en progreso.
+</string>
+
+
+
+
+</resources>

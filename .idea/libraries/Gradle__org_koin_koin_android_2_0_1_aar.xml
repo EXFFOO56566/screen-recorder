@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: org.koin:koin-android:2.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Gradle/gradle-5.1.1/caches/transforms-2/files-2.1/8a29cd3e4b0e5bd49163517b218149de/jetified-koin-android-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Gradle/gradle-5.1.1/caches/transforms-2/files-2.1/8a29cd3e4b0e5bd49163517b218149de/jetified-koin-android-2.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a29cd3e4b0e5bd49163517b218149de/jetified-koin-android-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a29cd3e4b0e5bd49163517b218149de/jetified-koin-android-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a29cd3e4b0e5bd49163517b218149de/jetified-koin-android-2.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/8a29cd3e4b0e5bd49163517b218149de/jetified-koin-android-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/8a29cd3e4b0e5bd49163517b218149de/jetified-koin-android-2.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/8a29cd3e4b0e5bd49163517b218149de/jetified-koin-android-2.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Gradle/gradle-5.1.1/caches/modules-2/files-2.1/org.koin/koin-android/2.0.1/c5e7483df8370e8171e9a3463a10b88bd9f1bf31/koin-android-2.0.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-android/2.0.1/c5e7483df8370e8171e9a3463a10b88bd9f1bf31/koin-android-2.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/modules-2/files-2.1/org.koin/koin-android/2.0.1/c5e7483df8370e8171e9a3463a10b88bd9f1bf31/koin-android-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Gradle/gradle-5.1.1/caches/modules-2/files-2.1/org.koin/koin-android/2.0.1/69ea3b064e88e8fd38a612767979105827c9ba28/koin-android-2.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-android/2.0.1/69ea3b064e88e8fd38a612767979105827c9ba28/koin-android-2.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/modules-2/files-2.1/org.koin/koin-android/2.0.1/69ea3b064e88e8fd38a612767979105827c9ba28/koin-android-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

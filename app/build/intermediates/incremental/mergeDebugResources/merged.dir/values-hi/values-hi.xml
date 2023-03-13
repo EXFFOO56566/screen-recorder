@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"वापस जाएं"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"कोई ऐप्लिकेशन चुनें"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"बंद"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"चालू"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"खोजें…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"क्‍वेरी हटाएं"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"बोलकर खोजें"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"इससे शेयर करें:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> से शेयर करें"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string name="app_name">स्क्रीन अभिलेखी</string>
+    <string name="app_name_short">स्क्रीन अभिलेखी</string>
+    <string name="app_name_short_withNumber_str">SC (%1$d)</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"चालू करें"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"जब तक आप Google Play सेवाएं चालू नहीं करते, <ns1:g id="APP_NAME">%1$s</ns1:g> काम नहीं करेगा."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play सेवाएं चालू करें"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"इंस्टॉल करें"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> उन Google Play सेवाओं के बिना नहीं चलेगा जो आपके डिवाइस में उपलब्ध नहीं हैं."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play सेवाएं इंस्टॉल करें"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play सेवाएं उपलब्ध हैं"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play सेवाओं से जुड़ी गड़बड़ी"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> को Google Play सेवाओं के साथ समस्या आ रही है. कृपया फिर से कोशिश करें."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> उन Google Play सेवाओं के बिना नहीं चलेगा, जो आपके डिवाइस पर काम नहीं करती हैं."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"अपडेट करें"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> तब तक नहीं चलेगा जब तक आप Google Play सेवाओं को अपडेट नहीं करते."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play सेवाओं को अपडेट करें"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> उन Google Play सेवाओं के बिना नहीं चलेगा जो अभी अपडेट हो रही हैं."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play सेवाओं के नए वर्शन की ज़रूरत है. यह जल्द ही अपने आप अपडेट हो जाएगा."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"फ़ोन पर खोलें"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"साइन इन करें"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google के ज़रिए साइन इन करें"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"बेहतर सेटिंग"</string>
+    <string name="install_video_viewer_in">कृपया वीडियो दर्शक ऐप इंस्टॉल करें, जैसे कि Google फ़ोटो।</string>
+    <string name="recordings_empty_msg">कोई रिकॉर्डिंग नहीं…</string>
+    <string msgid="368094699078615544" name="s1">"इमेज सेव करें"</string>
+    <string msgid="4550830452390689489" name="s2">"विज्ञापन को तस्वीर गैलरी में इमेज सेव करने का अनुमति देना चाहते हैं?"</string>
+    <string msgid="2435407834265420668" name="s3">"मंज़ूरी दें"</string>
+    <string msgid="9167523597401839819" name="s4">"खारिज करें"</string>
+    <string msgid="1566682516266724847" name="s5">"कैलेंडर इवेंट बनाएं"</string>
+    <string msgid="5996672174517137271" name="s6">"विज्ञापन को कैलेंडर इवेंट बनाने दें?"</string>
+    <string msgid="7163549807207034258" name="s7">"जाँच विज्ञापन"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"खोजें"</string>
+    <string name="setting_always_show_controls_disable">नियंत्रण केवल तभी दिखाए जाते हैं जब कैप्चर इन-प्रोग्रेस हो।</string>
+    <string name="setting_always_show_controls_enable_c">अधिसूचना जैसे नियंत्रण &amp; जब एप्लिकेशन लॉन्च किया जाता है, तब फ्लोटिंग बटन दिखाया जाता है, और जब तक आप अधिसूचना या फ़्लोटिंग बटन को खारिज नहीं करते, तब तक जीत नहीं जाती है।</string>
+    <string name="setting_audio_bitrate_desc_q">ऑडियो कैप्चर %1$s पर रिकॉर्ड होगा</string>
+    <string name="setting_audio_bitrate_q">गानों का बिट - रैट</string>
+    <string name="setting_bitrate_desc_q">स्क्रीन कैप्चर %1$s पर रिकॉर्ड होगा</string>
+    <string name="setting_bitrate_q">वीडियो बिट दर</string>
+    <string name="setting_category_controls_c">नियंत्रण</string>
+    <string name="setting_category_controls_desc_c">रिकॉर्डिंग नियंत्रण को संशोधित करें, जैसे शेक पर रोक, स्क्रीन ऑफ पर रोक आदि।</string>
+    <string name="setting_category_quality_desc_q">ऑडियो और वीडियो की गुणवत्ता को संशोधित करें जैसे फ्रेम दर और बिट दर।</string>
+    <string name="setting_category_quality_q">गुणवत्ता</string>
+    <string name="setting_category_recording_desc_r">रिकॉर्डिंग व्यवहार को संशोधित करें, जैसे एक शुरुआत उलटी गिनती, आउटपुट फ़ोल्डर, आदि।</string>
+    <string name="setting_category_recording_r">रिकॉर्डिंग</string>
+    <string name="setting_category_ui_desc_setting">एप्लिकेशन का UI संशोधित करें।</string>
+    <string name="setting_category_ui_setting">UI (उपयोगकर्ता इंटरफ़ेस)</string>
+    <string name="setting_countdown_off">रिकॉर्डिंग तुरंत शुरू हो जाएगी।</string>
+    <string name="setting_countdown_r">उलटी गिनती</string>
+    <string name="setting_countdown_zero_note_r">जब 0 पर सेट किया जाता है, तो उलटी गिनती अक्षम हो जाती है।</string>
+    <string name="setting_dark_mode_automatic_end_desc_setting">डार्क मोड% %1$s पर ही बंद हो जाता है।</string>
+    <string name="setting_dark_mode_automatic_end_setting">डार्क मोड एंड</string>
+    <string name="setting_dark_mode_automatic_off_setting">डार्क मोड केवल सक्षम किया गया है जब आप उसे पुन: चालू और जब तक आप इसे बंद करने पर बनी हुई है।</string>
+    <string name="setting_dark_mode_automatic_on_setting">डार्क मोड दिन के समय के आधार पर खुद को चालू और बंद करता है।</string>
+    <string name="setting_dark_mode_automatic_setting">स्वत: डार्क मोड</string>
+    <string name="setting_dark_mode_automatic_start_setting">डार्क मोड स्टार्ट</string>
+    <string name="setting_dark_mode_off_setting">अंधेरा मोड बंद है।</string>
+    <string name="setting_dark_mode_on_setting">डार्क मोड चालू है।</string>
+    <string name="setting_dark_mode_setting">डार्क मोड</string>
+    <string name="setting_framerate_desc_q" ns2:ignore="PluralsCandidate">स्क्रीन कैप्चर प्रति सेकंड %1$d फ्रेम में रिकॉर्ड होगा।</string>
+    <string name="setting_framerate_q">फ्रेम रेट</string>
+    <string name="setting_record_audio_no_mic">आपके डिवाइस में माइक्रोफ़ोन नहीं है और ऑडियो रिकॉर्ड नहीं कर सकता है।</string>
+    <string name="setting_record_audio_off_r">कैप्चर के दौरान ऑडियो रिकॉर्ड नहीं किया जाएगा। ध्यान दें कि Google आंतरिक ऑडियो को केवल आपके माइक्रोफ़ोन से रिकॉर्ड करने की अनुमति नहीं देता है।
+</string>
+    <string name="setting_record_audio_on_r">कैप्चर के दौरान ऑडियो आपके माइक्रोफ़ोन से रिकॉर्ड किया जाएगा। Google ऐप्स को आंतरिक ऑडियो रिकॉर्ड करने की अनुमति नहीं देता है।
+</string>
+    <string name="setting_record_audio_r">ध्वनि रिकॉर्ड करें
+</string>
+    <string name="setting_recordings_folder_desc">रिकॉर्डिंग को \"%1$s\" में सहेजा गया है</string>
+    <string name="setting_recordings_folder_r">रिकॉर्डिंग फ़ोल्डर</string>
+    <string name="setting_resolution">संकल्प</string>
+    <string name="setting_resolution_desc">रिकॉर्डिंग रिज़ॉल्यूशन सेट %1$dx%2$d के लिए।</string>
+    <string name="setting_show_touches_desc_r">स्क्रीन रिकॉर्डर एंड्रॉइड के नवीनतम संस्करणों को लक्षित करता है, जो इस सेटिंग तक पहुंच को प्रतिबंधित करता है। आप इसे अपने फ़ोन की सेटिंग से मैन्युअल रूप से कर सकते हैं।</string>
+    <string name="setting_show_touches_r">नल दिखाओ</string>
+    <string name="setting_stop_on_screen_enable">स्क्रीन पर बंद करो</string>
+    <string name="setting_stop_on_screen_off_desc_diable">जब आपकी स्क्रीन बंद हो जाती है, तो कुछ विशेष नहीं होगा।</string>
+    <string name="setting_stop_on_screen_off_desc_enable">जब आपकी स्क्रीन बंद हो जाती है, तो कोई भी सक्रिय स्क्रीन रिकॉर्डिंग बंद हो जाएगी।</string>
+    <string name="setting_stop_on_shake_c">शेक पर बंद करो</string>
+    <string name="setting_stop_on_shake_disable_c">अपने डिवाइस को हिलाते हुए कुछ खास नहीं किया।</string>
+    <string name="setting_stop_on_shake_enable">आपके डिवाइस को हिलाना किसी भी सक्रिय स्क्रीन रिकॉर्डिंग को रोक देगा।</string>
+    <string name="settings">समायोजन</string>
+    <string name="settings_show_touches_dev_options_desc_r">आपको अपने फोन को डेवलपर मोड में रखना होगा ताकि SC आपको डेवलपर विकल्प दिखा सके। डेवलपर विकल्प आपको मैन्युअल रूप से \'टैप दिखाएँ\' की अनुमति देते हैं।</string>
+    <string name="settings_show_touches_dev_options_how_r">मुझे दिखाओ कि कैसे</string>
+    <string name="settings_show_touches_dev_options_r">डेवलपर मोड की आवश्यकता है</string>
+    <string name="shortcut_record_name">रिकॉर्डिंग शुरू</string>
+    <string name="shortcut_record_name_short">अभिलेख</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"बंद"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"चालू"</string>
+</resources>

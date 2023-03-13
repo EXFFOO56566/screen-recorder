@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+  <string name="overlay_permission_prompt_capture">Overlay Permission Required</string>
+  <string name="overlay_permission_prompt__dcapture">
+        Tochy screen Recorder needs permission to draw overlays so that it can display things like countdown and
+        display over other apps.
+    </string>
+
+  <string name="storage_permission_prompt_capture">Storage Permission Required</string>
+  <string name="storage_permission_prompt_d_capture">
+        Tochy screen Recorder needs permission to access your phone\'s storage so that screen recordings can be saved.
+    </string>
+
+  <string name="permission_denied_note_capture">You won\'t be able to use Tochy screen Recorder unless that permission is granted.</string>
+  <string name="okay">Okay!</string>
+
+</resources>

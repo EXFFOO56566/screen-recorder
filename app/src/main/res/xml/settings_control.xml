@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <PreferenceCategory
+      android:layout="@layout/preference_category_c"
+      android:title="@string/setting_category_controls_c">
+
+    <SwitchPreference
+        android:key="stop_on_screen_off"
+        android:layout="@layout/preference_c"
+        android:summaryOff="@string/setting_stop_on_screen_off_desc_diable"
+        android:summaryOn="@string/setting_stop_on_screen_off_desc_enable"
+        android:title="@string/setting_stop_on_screen_enable"/>
+
+    <SwitchPreference
+        android:key="stop_on_shake"
+        android:layout="@layout/preference_c"
+        android:summaryOff="@string/setting_stop_on_shake_disable_c"
+        android:summaryOn="@string/setting_stop_on_shake_enable"
+        android:title="@string/setting_stop_on_shake_c"/>
+
+    <SwitchPreference
+        android:key="always_show_controls_notification"
+        android:layout="@layout/preference_c"
+        android:summaryOff="@string/setting_always_show_controls_disable"
+        android:summaryOn="@string/setting_always_show_controls_enable_c"
+        android:title="@string/setting_always_show_controls_c"/>
+
+  </PreferenceCategory>
+
+</PreferenceScreen>

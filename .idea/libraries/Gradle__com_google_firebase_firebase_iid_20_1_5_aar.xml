@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-iid:20.1.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Gradle/gradle-5.1.1/caches/transforms-2/files-2.1/df8af5f5fdaca9c204a0a2bb8b858dd3/jetified-firebase-iid-20.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Gradle/gradle-5.1.1/caches/transforms-2/files-2.1/df8af5f5fdaca9c204a0a2bb8b858dd3/jetified-firebase-iid-20.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df8af5f5fdaca9c204a0a2bb8b858dd3/jetified-firebase-iid-20.1.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df8af5f5fdaca9c204a0a2bb8b858dd3/jetified-firebase-iid-20.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df8af5f5fdaca9c204a0a2bb8b858dd3/jetified-firebase-iid-20.1.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/df8af5f5fdaca9c204a0a2bb8b858dd3/jetified-firebase-iid-20.1.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/df8af5f5fdaca9c204a0a2bb8b858dd3/jetified-firebase-iid-20.1.5/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/df8af5f5fdaca9c204a0a2bb8b858dd3/jetified-firebase-iid-20.1.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Gradle/gradle-5.1.1/caches/modules-2/files-2.1/com.google.firebase/firebase-iid/20.1.5/bc41c071c343d0f7171f8ca34fafbd6d7ea79a4f/firebase-iid-20.1.5-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-iid/20.1.5/bc41c071c343d0f7171f8ca34fafbd6d7ea79a4f/firebase-iid-20.1.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/modules-2/files-2.1/com.google.firebase/firebase-iid/20.1.5/bc41c071c343d0f7171f8ca34fafbd6d7ea79a4f/firebase-iid-20.1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

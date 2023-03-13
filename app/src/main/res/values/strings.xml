@@ -1,0 +1,123 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--    adbmob   -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-8930377341158772~5762553526</string>
+    <string name="banner" translatable="false">ca-app-pub-8930377341158772/1003189048</string>
+    <string name="interstitial" translatable="false">ca-app-pub-8930377341158772/8580110941</string>
+
+
+    <string name="app_name">Tochy Screen Recorder</string>
+    <string name="app_name_short">Tochy Screen Recorder</string>
+    <string name="app_name_short_withNumber_str" translatable="false">SC (%1$d)</string>
+
+
+    <string name="recordings_empty_msg">No recordings…</string>
+    <string name="settings">Settings</string>
+    <string name="install_video_viewer_in">Please install a video player app, example Google Photos.</string>
+
+
+    <!--  ///////////////////////////setting-->
+    <string name="setting_category_ui_setting">UI (User Interface)</string>
+    <string name="setting_category_ui_desc_setting">Modify the app\'s UI.</string>
+
+    <string name="setting_dark_mode_setting">Dark Mode</string>
+    <string name="setting_dark_mode_on_setting">Dark mode is on.</string>
+    <string name="setting_dark_mode_off_setting">Dark mode is off.</string>
+
+    <string name="setting_dark_mode_automatic_setting">Automatic Dark Mode</string>
+    <string name="setting_dark_mode_automatic_on_setting">Dark mode turns itself on and off based on the time of day.</string>
+    <string name="setting_dark_mode_automatic_off_setting">Dark mode is only enabled when you switch it on and remains on until you switch it off.</string>
+
+    <string name="setting_dark_mode_automatic_start_setting">Dark Mode Start</string>
+    <string name="setting_dark_mode_automatic_start_desc_setting" translatable="false">Dark mode turns itself on at %1$s.</string>
+    <string name="setting_dark_mode_automatic_end_setting">Dark Mode End</string>
+    <string name="setting_dark_mode_automatic_end_desc_setting" translatable="false">Dark mode turns itself off at %1$s.</string>
+
+    <string name="setting_category_quality_q">Quality</string>
+    <string name="setting_category_quality_desc_q">Modify audio and video quality such as frame rate and bit rate.</string>
+
+    <string name="setting_bitrate_q">Video Bit Rate</string>
+    <string name="setting_bitrate_desc_q" translatable="false">Screen capture will record at %1$s</string>
+
+    <string name="setting_audio_bitrate_q">Audio Bit Rate</string>
+    <string name="setting_audio_bitrate_desc_q" translatable="false">Audio capture will record at %1$s</string>
+
+    <string name="setting_framerate_q">Frame Rate</string>
+    <string name="setting_framerate_desc_q" tools:ignore="PluralsCandidate" translatable="false">
+    Screen capture will record at %1$d frames per second.
+  </string>
+
+    <string name="setting_resolution">Resolution</string>
+    <string name="setting_resolution_desc" translatable="false">Recording resolution set to %1$dx%2$d.</string>
+
+    <string name="setting_category_recording_r">Recording</string>
+    <string name="setting_category_recording_desc_r">Modify recording behavior, such as a start countdown, the output folder, etc.</string>
+
+    <string name="setting_countdown_r">Countdown</string>
+    <string name="setting_countdown_off">Recording will begin immediately.</string>
+    <plurals name="setting_countdown_desc_r">
+        <item quantity="zero" translatable="false">@string/setting_countdown_off</item>
+        <item quantity="one" translatable="false">%1$d second before recording begins.</item>
+        <item quantity="other" translatable="false">%1$d seconds before recording begins.</item>
+    </plurals>
+    <string name="setting_countdown_zero_note_r">When set to 0, the countdown is disabled.</string>
+
+    <string name="setting_record_audio_r">Record Audio</string>
+    <string name="setting_record_audio_on_r">
+    Audio will be recorded from your microphone during capture. Apps are not allowed to
+    record internal audio.
+  </string>
+    <string name="setting_record_audio_off_r">Audio will not be recorded during capture. Note that Apps are not allowed to
+    record internal audio, only from your microphone.</string>
+    <string name="setting_record_audio_no_mic">Your device does not have a microphone and cannot record audio.</string>
+
+    <string name="setting_recordings_folder_r">Recordings Folder</string>
+    <string name="setting_recordings_folder_desc" translatable="false">Recordings are saved to \"%1$s\"</string>
+
+    <string name="setting_show_touches_r">Show Taps</string>
+    <string name="setting_show_touches_desc_r">
+    Tochy screen Recorder targets the latest versions of Android, which restricts access to this
+    setting. You can manually on it from your phone\'s settings.
+  </string>
+    <string name="settings_show_touches_dev_options_r">Developer Mode Needed</string>
+    <string name="settings_show_touches_dev_options_desc_r">
+    You must put your phone into developer mode so that Tochy SC can show you developer options.
+    Developer options allow you to enable \'Show Taps\' manually.
+  </string>
+    <string name="settings_show_touches_dev_options_how_r">Show Me How</string>
+
+    <string name="setting_category_controls_c">Controls</string>
+    <string name="setting_category_controls_desc_c">Modify recording controls, such as stop on shake, stop on screen off, etc.</string>
+
+    <string name="setting_stop_on_screen_enable">Stop on Screen Off</string>
+    <string name="setting_stop_on_screen_off_desc_enable">
+    When your screen is turned off, any active screen recording will stop.
+  </string>
+    <string name="setting_stop_on_screen_off_desc_diable">
+    When your screen is turned off, nothing special will happen.
+  </string>
+
+    <string name="setting_stop_on_shake_c">Stop on Shake</string>
+    <string name="setting_stop_on_shake_enable">
+    Shaking your device will stop any active screen recording.
+  </string>
+    <string name="setting_stop_on_shake_disable_c">
+    Shaking your device won\'t do anything special.
+  </string>
+
+
+    <!--    /////shortcuts   -->
+    <string name="shortcut_record_name">Start Recording</string>
+    <string name="shortcut_record_name_short">Record</string>
+
+    <string name="setting_always_show_controls_c" translatable="false">Always Show Controls</string>
+    <string name="setting_always_show_controls_enable_c">
+    Controls such as the notification &amp; the floating button are shown when the app is launched,
+    and won\'t go away until you dismiss the notification or floating button.
+  </string>
+    <string name="setting_always_show_controls_disable">Controls are only shown when capture is in-progress.</string>
+
+    <string name="select" translatable="false">Select</string>
+
+
+</resources>

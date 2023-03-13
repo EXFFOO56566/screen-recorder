@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string name="app_name">Enregistreur d\'écran</string>
+    <string name="app_name_short">Enregistreur d\'écran</string>
+    <string name="app_name_short_withNumber_str">SC (%1$d)</string>
+
+
+    <string name="recordings_empty_msg">Aucun enregistrement…</string>
+    <string name="settings">Paramètres</string>
+    <string name="install_video_viewer_in">Veuillez installer une application de visualisation vidéo, telle que Google Photos.</string>
+
+
+    <!--  ///////////////////////////setting-->
+    <string name="setting_category_ui_setting">UI (User Interface)</string>
+    <string name="setting_category_ui_desc_setting">Modify the app\'s UI.</string>
+
+    <string name="setting_dark_mode_setting">Mode sombre</string>
+    <string name="setting_dark_mode_on_setting">Le mode sombre est activé.</string>
+    <string name="setting_dark_mode_off_setting">Le mode sombre est désactivé.</string>
+
+    <string name="setting_dark_mode_automatic_setting">Mode sombre automatique</string>
+    <string name="setting_dark_mode_automatic_on_setting">Le mode sombre s\'active et se désactive en fonction de l\'heure de la journée.</string>
+    <string name="setting_dark_mode_automatic_off_setting">Le mode sombre n\'est activé que lorsque vous l\'allumez et reste allumé jusqu\'à ce que vous l\'éteigniez</string>
+
+    <string name="setting_dark_mode_automatic_start_setting">Démarrage du mode sombre</string>
+<!--    <string name="setting_dark_mode_automatic_start_desc_setting">Le mode sombre s\'active à %1$s.</string>-->
+    <string name="setting_dark_mode_automatic_end_setting">Fin du mode sombre</string>
+    <string name="setting_dark_mode_automatic_end_desc_setting">Le mode sombre se désactive à %1$s.</string>
+
+    <string name="setting_category_quality_q">Qualité</string>
+    <string name="setting_category_quality_desc_q">Modifiez la qualité audio et vidéo telle que la fréquence d\'images et le débit binaire.</string>
+
+    <string name="setting_bitrate_q">Bitrate vidéo</string>
+    <string name="setting_bitrate_desc_q">La capture d\'écran enregistrera à %1$s</string>
+
+    <string name="setting_audio_bitrate_q">Bitrate audio</string>
+    <string name="setting_audio_bitrate_desc_q">La capture audio enregistrera à %1$s</string>
+
+    <string name="setting_framerate_q">Fréquence d\'images</string>
+    <string name="setting_framerate_desc_q" tools:ignore="PluralsCandidate">La capture d\'écran enregistrera à %1$d images par seconde.
+</string>
+
+    <string name="setting_resolution">Résolution</string>
+    <string name="setting_resolution_desc">Résolution d\'enregistrement définie sur %1$dx%2$d.</string>
+
+    <string name="setting_category_recording_r">Enregistrement</string>
+    <string name="setting_category_recording_desc_r">Modifier le comportement d\'enregistrement, tel qu\'un compte à rebours de démarrage, le dossier de sortie, etc.
+</string>
+
+    <string name="setting_countdown_r">Compte à rebours</string>
+    <string name="setting_countdown_off">L\'enregistrement commencera immédiatement.</string>
+
+    <string name="setting_countdown_zero_note_r">Lorsqu\'il est réglé sur 0, le compte à rebours est désactivé.
+</string>
+
+    <string name="setting_record_audio_r">Enregistrement audio
+</string>
+    <string name="setting_record_audio_on_r">Le son sera enregistré à partir de votre microphone pendant la capture. Google n\'autorise pas les applications à enregistrer de l\'audio interne.
+</string>
+    <string name="setting_record_audio_off_r">Le son ne sera pas enregistré pendant la capture. Notez que Google n\'autorise pas l\'enregistrement audio interne, uniquement à partir de votre microphone.
+</string>
+    <string name="setting_record_audio_no_mic">    Votre appareil n\'a pas de microphone et ne peut pas enregistrer d\'audio.
+</string>
+
+    <string name="setting_recordings_folder_r">Dossier d\'enregistrements
+</string>
+    <string name="setting_recordings_folder_desc">Les enregistrements sont enregistrés dans  \"%1$s\"</string>
+
+    <string name="setting_show_touches_r">Afficher les prises
+</string>
+    <string name="setting_show_touches_desc_r">Screen Recorder cible les dernières versions d\'Android, ce qui restreint l\'accès à ce paramètre. Vous pouvez manuellement dessus à partir des paramètres de votre téléphone.
+</string>
+    <string name="settings_show_touches_dev_options_r">Mode développeur nécessaire
+</string>
+    <string name="settings_show_touches_dev_options_desc_r">Vous devez mettre votre téléphone en mode développeur pour que SC puisse vous montrer les options du développeur. Les options du développeur vous permettent d\'activer \'Afficher les taps \' manuellement.
+</string>
+    <string name="settings_show_touches_dev_options_how_r">Me montrer comment
+</string>
+
+    <string name="setting_category_controls_c">Contrôles
+</string>
+    <string name="setting_category_controls_desc_c">Modifiez les commandes d\'enregistrement, telles que l\'arrêt sur agitation, l\'arrêt sur écran éteint, etc.
+</string>
+
+    <string name="setting_stop_on_screen_enable">Arrêter à l\'écran éteint
+</string>
+    <string name="setting_stop_on_screen_off_desc_enable">Lorsque votre écran est éteint, tout enregistrement d\'écran actif s\'arrête.
+</string>
+    <string name="setting_stop_on_screen_off_desc_diable">Lorsque votre écran est éteint, rien de spécial ne se produit.
+</string>
+
+
+
+    <string name="setting_stop_on_shake_c">Arrêtez-vous sur Shake
+</string>
+    <string name="setting_stop_on_shake_enable">Secouer votre appareil arrêtera tout enregistrement d\'écran actif.
+</string>
+    <string name="setting_stop_on_shake_disable_c">Secouer votre appareil ne fera rien de spécial.
+</string>
+
+
+    <!--    /////shortcuts   -->
+    <string name="shortcut_record_name">Commencer l\'enregistrement
+</string>
+    <string name="shortcut_record_name_short">Record</string>
+
+    <string name="setting_always_show_controls_enable_c">Des contrôles tels que la notification &amp; le bouton flottant s\'affiche lorsque l\'application est lancée et ne disparaîtra pas tant que vous n\'aurez pas ignoré la notification ou le bouton flottant.
+</string>
+    <string name="setting_always_show_controls_disable">Les commandes ne sont affichées que lorsque la capture est en cours.
+</string>
+
+
+</resources>

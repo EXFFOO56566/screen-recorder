@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad:rxkprefs:1.2.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0fa89ae3454f12750164833478b8f356/jetified-rxkprefs-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Gradle/gradle-5.1.1/caches/transforms-2/files-2.1/0fa89ae3454f12750164833478b8f356/jetified-rxkprefs-1.2.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fa89ae3454f12750164833478b8f356/jetified-rxkprefs-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fa89ae3454f12750164833478b8f356/jetified-rxkprefs-1.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fa89ae3454f12750164833478b8f356/jetified-rxkprefs-1.2.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/0fa89ae3454f12750164833478b8f356/jetified-rxkprefs-1.2.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/0fa89ae3454f12750164833478b8f356/jetified-rxkprefs-1.2.5/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/transforms-2/files-2.1/0fa89ae3454f12750164833478b8f356/jetified-rxkprefs-1.2.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Gradle/gradle-5.1.1/caches/modules-2/files-2.1/com.afollestad/rxkprefs/1.2.5/4869c5a2c3ec230e4abb179c1e8283688f357961/rxkprefs-1.2.5-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad/rxkprefs/1.2.5/4869c5a2c3ec230e4abb179c1e8283688f357961/rxkprefs-1.2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/modules-2/files-2.1/com.afollestad/rxkprefs/1.2.5/4869c5a2c3ec230e4abb179c1e8283688f357961/rxkprefs-1.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Gradle/gradle-5.1.1/caches/modules-2/files-2.1/com.afollestad/rxkprefs/1.2.5/56245239a70eb4d56a2310aaa681dd45fb896636/rxkprefs-1.2.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad/rxkprefs/1.2.5/56245239a70eb4d56a2310aaa681dd45fb896636/rxkprefs-1.2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../ALL ANDRIOD PROJECT FOLDER/FOR PLAYSTORE/MAIN/PORTFOLIO APP (SPECAIL)/ADD ON'S/ImageViewer-master/caches/modules-2/files-2.1/com.afollestad/rxkprefs/1.2.5/56245239a70eb4d56a2310aaa681dd45fb896636/rxkprefs-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
